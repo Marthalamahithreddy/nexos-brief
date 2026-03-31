@@ -1,7 +1,20 @@
 # 🚀 Nexos Brief – Reddit Market Intelligence Pipeline
 
 Automated pipeline that extracts insights from Reddit startup discussions and delivers structured summaries via Telegram.
+
+
 📌 Deployed on VPS with Docker and runs daily via cron to deliver automated market intelligence summaries.
+
+
+ 🎯 Why This Project
+
+This system transforms unstructured Reddit discussions into structured, actionable market intelligence.
+
+It simulates a lightweight alternative to internal tools used by:
+- VC firms
+- Market research teams
+- Early-stage founders tracking trends
+
 ---
 
 ## 🔧 Tech Stack
