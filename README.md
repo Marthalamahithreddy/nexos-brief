@@ -40,7 +40,7 @@ Reddit → Data Extraction → Comment Analysis → Tagging → Clustering → S
 ## 📸 Output Sample
 
 (Add screenshot below)
-
+![Telegram Output](images/1.jpeg)
 ---
 
 ## 📌 Status
